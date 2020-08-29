@@ -2,7 +2,7 @@
 A simple Winetricks updater
 
 # Prerequisites
-Winetricks must be installed.
+Winetricks must be installed. [Instructions](https://github.com/Winetricks/winetricks#installing)
 Sudo access is needed.
 
 # Usage
